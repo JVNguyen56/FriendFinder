@@ -7,14 +7,14 @@ body{
 }
 
 .jumbotron {
-    background-color: firebrick;
+    background-color: rgb(20, 71, 69);
     color: white;
     opacity: .75;
     margin-top: 20px;
 }
 
 #submit {
-    background: firebrick;
+    background: rgb(20, 71, 69);
 }
 
 #jumbo_h2 {
@@ -23,10 +23,10 @@ body{
 
 .btn-primary {
     color: #fff;
-    background-color: #337ab7;
+    background-color: #063C6B;
     border-color: #2e6da4;
 }
 
 .panel-title {
-    color: firebrick;
+    color: rgb(20, 71, 69);
 }
